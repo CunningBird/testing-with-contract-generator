@@ -1,0 +1,1 @@
+rootProject.name = "testing-with-contract-generator"
